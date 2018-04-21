@@ -1,0 +1,14 @@
+.beerImage {
+    height: 250px;
+    width: 250px;
+    border: 4px solid black;
+}
+
+.beerCard {
+    background-color: grey;
+    float: left;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
