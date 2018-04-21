@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+  text-shadow: 3px 3px 10px grey;
+  font-family: 'Gugi', cursive;
+}
+
+.App {
+  background-color: lightgrey;
+  height: 100%;
+}
+
+.currentScore {
+  float: left;
+  padding-left: 20px;
+}
+
+.topScore {
+  float: right;
+  padding-right: 40px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 3px 3px 10px grey;
+  font-family: 'Gugi', cursive;
+
+}
+h3 {
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 3px 3px 10px grey;
+  font-family: 'Gugi', cursive;
+ 
+}
+
+.beerDiv {
+  padding-top: 30px;
+}
+
+.col-xs-12 {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.scoremsg {
+  height: 40px;
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Beer 1",
+        "photo": "./assets/images/beer1.jpg",
+        "beenClicked": false,
+        "id": 0
+    },
+    {
+        "name": "Beer 2",
+        "photo": "./assets/images/beer2.jpg",
+        "beenClicked": false,
+        "id": 1
+    },
+    {
+        "name": "Beer 3",
+        "photo": "./assets/images/beer3.jpg",
+        "beenClicked": false,
+        "id": 2
+    },
+    {
+        "name": "Beer 4",
+        "photo": "./assets/images/beer4.jpg",
+        "beenClicked": false,
+        "id": 3
+    },
+    {
+        "name": "Beer 5",
+        "photo": "./assets/images/beer5.jpg",
+        "beenClicked": false,
+        "id": 4
+    },
+    {
+        "name": "Beer 6",
+        "photo": "./assets/images/beer6.jpg",
+        "beenClicked": false,
+        "id": 5
+    },
+    {
+        "name": "Beer 7",
+        "photo": "./assets/images/beer7.jpg",
+        "beenClicked": false,
+        "id": 6
+    },
+    {
+        "name": "Beer 8",
+        "photo": "./assets/images/beer8.jpg",
+        "beenClicked": false,
+        "id": 7
+    },
+    {
+        "name": "Beer 9",
+        "photo": "./assets/images/beer9.jpg",
+        "beenClicked": false,
+        "id": 8
+    },
+    {
+        "name": "Beer 10",
+        "photo": "./assets/images/beer10.jpg",
+        "beenClicked": false,
+        "id": 9
+    },
+    {
+        "name": "Beer 11",
+        "photo": "./assets/images/beer11.jpg",
+        "beenClicked": false,
+        "id": 10
+    },
+    {
+        "name": "Beer 12",
+        "photo": "./assets/images/beer12.jpg",
+        "beenClicked": false,
+        "id": 11
+    },
+    {
+        "name": "Beer 13",
+        "photo": "./assets/images/beer13.jpg",
+        "beenClicked": false,
+        "id": 12
+    },
+    {
+        "name": "Beer 14",
+        "photo": "./assets/images/beer14.jpg",
+        "beenClicked": false,
+        "id": 13
+    }
+]
